@@ -1,0 +1,31 @@
+# ---- Python / backend ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+env/
+.env
+*.db
+*.sqlite3
+project_management.db
+
+# ---- Node / frontend ----
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+.env.local
+.env.*.local
+
+# ---- Editor / OS ----
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
